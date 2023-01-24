@@ -1,2 +1,4 @@
 Este es un ejercico de un archivo en texto plano
 en visual studio code  que trabajaremos en git bash el dia de hoy
+
+Ahora estamos trabajando con git reset.
